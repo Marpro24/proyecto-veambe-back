@@ -5,3 +5,5 @@ class PingController {
     res.status(200).json({ message: "🏓" });
   }
 }
+
+export default PingController;
